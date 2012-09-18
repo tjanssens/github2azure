@@ -1,7 +1,7 @@
 ﻿<%@ Master Language="C#" MasterPageFile="~/umbraco/masterpages/default.master" AutoEventWireup="true" %>
 
 <asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
- test omgeving
+ test omgeving2
  Dit lijkt wel goed
  <umbraco:Item field="homeContent" runat="server" />
 </asp:Content>
