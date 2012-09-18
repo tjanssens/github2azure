@@ -1,0 +1,19 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="masterContent" runat="server">
+    <div id="mainContent" class="fc">
+      
+      <div class="navigation">
+      <umbraco:Macro ID="Macro2" CssClassName="" CssId="" StopLevel="6" StartLevel="2" Alias="Navigation" runat="server"></umbraco:Macro>    
+      </div>
+
+       <div id="content">
+            <umbraco:Item ID="Item2" Field="bodyText" runat="server" ></umbraco:Item>
+         
+            <asp:ContentPlaceHolder Id="contentContent" runat="server"></asp:ContentPlaceHolder>
+       </div>
+
+       <umbraco:Macro Alias="SidePanels" runat="server"></umbraco:Macro>
+    </div>
+ 
+</asp:Content>

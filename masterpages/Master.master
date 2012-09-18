@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/umbraco/masterpages/default.master" AutoEventWireup="true" %><asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server"><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+      <title><umbraco:Item ID="Item1" Field="title" recursive='true' runat="server"></umbraco:Item></title>
+        <meta name="keywords" content="<umbraco:Item field='keywords' recursive='true' runat='server'/>" />
+        <meta name="description" content="<umbraco:Item field='keywords' recursive='true' runat='server'/>" />
+        
+  
+       <meta http-equiv="Content-Language" content="en" />
+      <meta name="language" content="en" />
+      <meta name="robots" content="all, follow" />
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+  
+      <link rel="stylesheet" href="/css/base-min.css" type="text/css" media="screen, projection" />
+      <link rel="stylesheet" href="/css/default.css" type="text/css" media="screen, projection" />
+      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+
+    </head>
+    <body>
+<div id="header">
+            <div class="page-width">
+                    <umbraco:Macro PropertyAlias="headerNavigation" Alias="RelatedLinksList" runat="server"></umbraco:Macro>
+                    <a href="/"><img src="/images/logo.png" alt="Koiak Basic Site" /></a>
+                    <p id="telephone">Call Now <span><umbraco:Item ID="Item4" field='telephone' recursive='true' runat='server'/></span></p>
+                    <umbraco:Macro ID="Macro1" Alias="LoggedInHeader" runat="server" />
+                    <umbraco:Macro Alias="SearchForm" runat="server"></umbraco:Macro>
+                  </div>
+                  
+                  <div class="navigation">
+                  <umbraco:Macro ID="Macro2" PropertyAlias="primaryNavigation" Alias="RelatedLinksList" runat="server"></umbraco:Macro>
+                  </div>
+                </div>
+            <div id="body" class="page-width">
+                
+                <asp:ContentPlaceHolder Id="masterContent" runat="server">
+                <!-- Insert default "masterContent" markup here -->
+                </asp:ContentPlaceHolder>
+
+            </div>
+
+            
+                <div id="footer" class="fc">
+                <div class="page-width">
+                    <umbraco:Macro ID="Macro3" Alias="Affiliations" runat="server"></umbraco:Macro>
+                    <p><umbraco:Item ID="Item2" field='address' recursive='true' runat='server'/></p>
+
+<p><umbraco:Item ID="Item3" field='copyright' recursive='true' runat='server'/></p>
+                    </div>
+                </div>
+
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+        <script type="text/javascript" src="/scripts/jquery.timers.js"></script>
+        <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>  
+        <script type="text/javascript" src="/scripts/default.js"></script>
+    </body>
+</html>
+</asp:Content>
