@@ -173,4 +173,198 @@
       <file name="/github2azure/umbraco/js/umbracoCheckKeys.js" />
     </files>
   </item>
+  <item key="L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9OYW1lc3BhY2VNYW5hZ2VyLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5LmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQ29kZU1pcnJvci9qcy9saWIvY29kZW1pcnJvci5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9zcGxpdGJ1dHRvbi9qcXVlcnkuc3BsaXRidXR0b24uanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9Db2RlTWlycm9yL2pzL21vZGUveG1sL3htbC5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbW9kZS9qYXZhc2NyaXB0L2phdmFzY3JpcHQuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9Db2RlTWlycm9yL2pzL21vZGUvY3NzL2Nzcy5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9Db2RlTWlycm9yL2pzL21vZGUvaHRtbG1peGVkL2h0bWxtaXhlZC5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnktZmllbGRzZWxlY3Rpb24uanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9qYXZhc2NyaXB0LmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQ29kZUFyZWEvVW1icmFjb0VkaXRvci5qczs" file="C:\Users\tom\Documents\GitHub\github2azure\App_Data\TEMP\ClientDependency\1_b7fe9f9c33734fe7918b6a3b4e5a96d5.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/github2azure/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/github2azure/umbraco_client/ui/jquery.js" />
+      <file name="/github2azure/umbraco_client/CodeMirror/js/lib/codemirror.js" />
+      <file name="/github2azure/umbraco_client/ui/jqueryui.js" />
+      <file name="/github2azure/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/github2azure/umbraco_client/splitbutton/jquery.splitbutton.js" />
+      <file name="/github2azure/umbraco_client/CodeMirror/js/mode/xml/xml.js" />
+      <file name="/github2azure/umbraco_client/CodeMirror/js/mode/javascript/javascript.js" />
+      <file name="/github2azure/umbraco_client/CodeMirror/js/mode/css/css.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/github2azure/umbraco_client/CodeMirror/js/mode/htmlmixed/htmlmixed.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/github2azure/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/github2azure/umbraco_client/ui/default.js" />
+      <file name="/github2azure/umbraco_client/modal/modal.js" />
+      <file name="/github2azure/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/github2azure/umbraco_client/panel/javascript.js" />
+      <file name="/github2azure/umbraco_client/Application/jQuery/jquery-fieldselection.js" />
+      <file name="/github2azure/umbraco_client/CodeArea/javascript.js" />
+      <file name="/github2azure/umbraco_client/CodeArea/UmbracoEditor.js" />
+    </files>
+  </item>
+  <item key="L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9Db2RlTWlycm9yL2pzL2xpYi9jb2RlbWlycm9yLmNzczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0NvZGVBcmVhL3N0eWxlcy5jc3M7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9tZW51aWNvbi9zdHlsZS5jc3M7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9zcGxpdGJ1dHRvbi9zcGxpdGJ1dHRvbi5jc3M7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczs" file="C:\Users\tom\Documents\GitHub\github2azure\App_Data\TEMP\ClientDependency\1_3cf365b0788843d683ad7a2a4db76bb2.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/github2azure/umbraco_client/CodeMirror/js/lib/codemirror.css" />
+      <file name="/github2azure/umbraco_client/CodeArea/styles.css" />
+      <file name="/github2azure/umbraco_client/propertypane/style.css" />
+      <file name="/github2azure/umbraco_client/scrollingmenu/style.css" />
+      <file name="/github2azure/umbraco_client/panel/style.css" />
+      <file name="/github2azure/umbraco_client/menuicon/style.css" />
+      <file name="/github2azure/umbraco_client/splitbutton/splitbutton.css" />
+      <file name="/github2azure/umbraco_client/ui/default.css" />
+      <file name="/github2azure/umbraco_client/modal/style.css" />
+    </files>
+  </item>
+  <item key="L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC90YWJ2aWV3L3N0eWxlLmNzczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0dlbmVyaWNQcm9wZXJ0eS9nZW5lcmljcHJvcGVydHkuY3NzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvVHJlZS9UaGVtZXMvdW1icmFjby9zdHlsZS5jc3M7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9UcmVlL3RyZWVJY29ucy5jc3M7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC91aS9kZC5jc3M7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczs" file="C:\Users\tom\Documents\GitHub\github2azure\App_Data\TEMP\ClientDependency\1_a331b1a981d04b84bb4a3501a9970750.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/github2azure/umbraco_client/tabview/style.css" />
+      <file name="/github2azure/umbraco_client/GenericProperty/genericproperty.css" />
+      <file name="/github2azure/umbraco_client/Tree/Themes/umbraco/style.css" />
+      <file name="/github2azure/umbraco_client/Tree/treeIcons.css" />
+      <file name="/github2azure/umbraco_client/ui/dd.css" />
+      <file name="/github2azure/umbraco_client/modal/style.css" />
+      <file name="/github2azure/umbraco_client/ui/default.css" />
+      <file name="/github2azure/umbraco_client/propertypane/style.css" />
+      <file name="/github2azure/umbraco_client/scrollingmenu/style.css" />
+      <file name="/github2azure/umbraco_client/menuicon/style.css" />
+    </files>
+  </item>
+  <item key="L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC91aS9qcXVlcnkuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9OYW1lc3BhY2VNYW5hZ2VyLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC91aS9qcXVlcnl1aS5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQ2xpZW50TWFuYWdlci5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuaG90a2V5cy5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5kZC5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0dlbmVyaWNQcm9wZXJ0eS9nZW5lcmljcHJvcGVydHkuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvL2pzL1VtYnJhY29DYXNpbmdSdWxlcy5hc3B4Ow" file="C:\Users\tom\Documents\GitHub\github2azure\App_Data\TEMP\ClientDependency\1_103fb193f1a34a54a19b2fd954edbf5c.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/github2azure/umbraco_client/ui/jquery.js" />
+      <file name="/github2azure/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/github2azure/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/github2azure/umbraco_client/ui/jqueryui.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/github2azure/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/github2azure/umbraco_client/ui/default.js" />
+      <file name="/github2azure/umbraco_client/modal/modal.js" />
+      <file name="/github2azure/umbraco_client/tabview/javascript.js" />
+      <file name="/github2azure/umbraco_client/ui/jquery.dd.js" />
+      <file name="/github2azure/umbraco_client/GenericProperty/genericproperty.js" />
+      <file name="/github2azure/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/github2azure/umbraco/js/UmbracoCasingRules.aspx" />
+    </files>
+  </item>
+  <item key="L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="C:\Users\tom\Documents\GitHub\github2azure\App_Data\TEMP\ClientDependency\1_9f005284cf0b46a8bcc102f4d642ad51.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/github2azure/umbraco_client/propertypane/style.css" />
+      <file name="/github2azure/umbraco_client/modal/style.css" />
+      <file name="/github2azure/umbraco_client/ui/default.css" />
+    </files>
+  </item>
+  <item key="L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC91aS9qcXVlcnkuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9OYW1lc3BhY2VNYW5hZ2VyLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC91aS9qcXVlcnl1aS5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQ2xpZW50TWFuYWdlci5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuaG90a2V5cy5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczs" file="C:\Users\tom\Documents\GitHub\github2azure\App_Data\TEMP\ClientDependency\1_39764f24e134424c811c26be14a749b8.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/github2azure/umbraco_client/ui/jquery.js" />
+      <file name="/github2azure/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/github2azure/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/github2azure/umbraco_client/ui/jqueryui.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/github2azure/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/github2azure/umbraco_client/ui/default.js" />
+      <file name="/github2azure/umbraco_client/modal/modal.js" />
+    </files>
+  </item>
+  <item key="L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="C:\Users\tom\Documents\GitHub\github2azure\App_Data\TEMP\ClientDependency\1_0a81e90d0ac64653b5dc7e1b55a05db4.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/github2azure/umbraco_client/propertypane/style.css" />
+      <file name="/github2azure/umbraco_client/ui/default.css" />
+    </files>
+  </item>
+  <item key="L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC91aS9qcXVlcnkuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9OYW1lc3BhY2VNYW5hZ2VyLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC91aS9qcXVlcnl1aS5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQ2xpZW50TWFuYWdlci5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuaG90a2V5cy5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY28vanMvdW1icmFjb0NoZWNrS2V5cy5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L01hc2tlZElucHV0L2pxdWVyeS5tYXNrZWRpbnB1dC0xLjMubWluLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdW1iRGF0ZVRpbWVQaWNrZXIuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci90aW1lcGlja2VyLmpzOw" file="C:\Users\tom\Documents\GitHub\github2azure\App_Data\TEMP\ClientDependency\1_12a11d99acda480aab5a15d781a88bf0.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/github2azure/umbraco_client/ui/jquery.js" />
+      <file name="/github2azure/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/github2azure/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/github2azure/umbraco_client/ui/jqueryui.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/github2azure/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/github2azure/umbraco_client/ui/default.js" />
+      <file name="/github2azure/umbraco_client/modal/modal.js" />
+      <file name="/github2azure/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/github2azure/umbraco_client/tabview/javascript.js" />
+      <file name="/github2azure/umbraco/js/umbracoCheckKeys.js" />
+      <file name="/github2azure/umbraco_client/MaskedInput/jquery.maskedinput-1.3.min.js" />
+      <file name="/github2azure/umbraco_client/DateTimePicker/umbDateTimePicker.js" />
+      <file name="/github2azure/umbraco_client/DateTimePicker/timepicker.js" />
+    </files>
+  </item>
+  <item key="L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9tZW51aWNvbi9zdHlsZS5jc3M7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvZGF0ZXRpbWVwaWNrZXIuY3NzOw" file="C:\Users\tom\Documents\GitHub\github2azure\App_Data\TEMP\ClientDependency\1_29ec403331244ccf8b5b604b64e7873a.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/github2azure/umbraco_client/menuicon/style.css" />
+      <file name="/github2azure/umbraco_client/scrollingmenu/style.css" />
+      <file name="/github2azure/umbraco_client/tabview/style.css" />
+      <file name="/github2azure/umbraco_client/propertypane/style.css" />
+      <file name="/github2azure/umbraco_client/ui/default.css" />
+      <file name="/github2azure/umbraco_client/modal/style.css" />
+      <file name="/github2azure/umbraco_client/DateTimePicker/datetimepicker.css" />
+    </files>
+  </item>
+  <item key="L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvRm9sZGVyQnJvd3Nlci9Dc3MvZm9sZGVyYnJvd3Nlci5jc3M7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC90YWJ2aWV3L3N0eWxlLmNzczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQ29udGV4dE1lbnUvQ3NzL2pxdWVyeS5jb250ZXh0TWVudS5jc3M7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczs" file="C:\Users\tom\Documents\GitHub\github2azure\App_Data\TEMP\ClientDependency\1_fa3e2421d96d442f9f4786a42c622e9d.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/github2azure/umbraco_client/propertypane/style.css" />
+      <file name="/github2azure/umbraco_client/FolderBrowser/Css/folderbrowser.css" />
+      <file name="/github2azure/umbraco_client/tabview/style.css" />
+      <file name="/github2azure/umbraco_client/panel/style.css" />
+      <file name="/github2azure/umbraco_client/modal/style.css" />
+      <file name="/github2azure/umbraco_client/ui/default.css" />
+      <file name="/github2azure/umbraco_client/ContextMenu/Css/jquery.contextMenu.css" />
+      <file name="/github2azure/umbraco_client/scrollingmenu/style.css" />
+    </files>
+  </item>
+  <item key="L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC91aS9qcXVlcnkuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9OYW1lc3BhY2VNYW5hZ2VyLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC91aS9qcXVlcnl1aS5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3VpL2Jhc2UyLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb1V0aWxzLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0FwcGxpY2F0aW9uQWN0aW9ucy5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3VpL2tub2Nrb3V0LmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC91aS9rbm9ja291dC5tYXBwaW5nLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQ29udGV4dE1lbnUvSnMvanF1ZXJ5LmNvbnRleHRNZW51LmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvRmlsZVVwbG9hZGVyL2pzL2pxdWVyeS5maWxlVXBsb2FkZXIuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9Gb2xkZXJCcm93c2VyL2pzL2ZvbGRlcmJyb3dzZXIuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuaG90a2V5cy5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOw" file="C:\Users\tom\Documents\GitHub\github2azure\App_Data\TEMP\ClientDependency\1_904f194b25794b96b551ba43c2a69f2a.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/github2azure/umbraco_client/ui/jquery.js" />
+      <file name="/github2azure/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/github2azure/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/github2azure/umbraco_client/ui/jqueryui.js" />
+      <file name="/github2azure/umbraco_client/ui/base2.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/github2azure/umbraco_client/ui/knockout.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/github2azure/umbraco_client/ui/knockout.mapping.js" />
+      <file name="/github2azure/umbraco_client/ContextMenu/Js/jquery.contextMenu.js" />
+      <file name="/github2azure/umbraco_client/FileUploader/js/jquery.fileUploader.js" />
+      <file name="/github2azure/umbraco_client/FolderBrowser/js/folderbrowser.js" />
+      <file name="/github2azure/umbraco_client/modal/modal.js" />
+      <file name="/github2azure/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/github2azure/umbraco_client/ui/default.js" />
+      <file name="/github2azure/umbraco_client/tabview/javascript.js" />
+      <file name="/github2azure/umbraco_client/panel/javascript.js" />
+      <file name="/github2azure/umbraco_client/scrollingmenu/javascript.js" />
+    </files>
+  </item>
+  <item key="L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9UcmVlL3RyZWVJY29ucy5jc3M7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9UcmVlL21lbnVJY29ucy5jc3M7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczs" file="C:\Users\tom\Documents\GitHub\github2azure\App_Data\TEMP\ClientDependency\1_4239005f93824e47977e5eb205f5857a.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/github2azure/umbraco_client/Tree/treeIcons.css" />
+      <file name="/github2azure/umbraco_client/Tree/menuIcons.css" />
+      <file name="/github2azure/umbraco_client/Tree/Themes/umbraco/style.css" />
+      <file name="/github2azure/umbraco_client/tabview/style.css" />
+      <file name="/github2azure/umbraco_client/propertypane/style.css" />
+    </files>
+  </item>
+  <item key="L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9OYW1lc3BhY2VNYW5hZ2VyLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5LmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSlF1ZXJ5L2pxdWVyeS5tZXRhZGF0YS5taW4uanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvVHJlZS9VbWJyYWNvQ29udGV4dC5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNvbnRleHRtZW51LmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvVHJlZS9Ob2RlRGVmaW5pdGlvbi5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQ2xpZW50TWFuYWdlci5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3RpbnltY2UzL3RpbnlfbWNlX3BvcHVwLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb1V0aWxzLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0FwcGxpY2F0aW9uQWN0aW9ucy5qczsvZ2l0aHViMmF6dXJlL3VtYnJhY29fY2xpZW50L3RpbnltY2UzL3BsdWdpbnMvdW1icmFjb2xpbmsvanMvdW1icmFjb2xpbmsuanM7L2dpdGh1YjJhenVyZS91bWJyYWNvX2NsaWVudC90aW55bWNlMy91dGlscy9mb3JtX3V0aWxzLmpzOy9naXRodWIyYXp1cmUvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdXRpbHMvdmFsaWRhdGUuanM7" file="C:\Users\tom\Documents\GitHub\github2azure\App_Data\TEMP\ClientDependency\1_9441ca8c41e1461480d4b22b6d5d74dc.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/github2azure/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/github2azure/umbraco_client/ui/jquery.js" />
+      <file name="/github2azure/umbraco_client/Application/JQuery/jquery.metadata.min.js" />
+      <file name="/github2azure/umbraco_client/Tree/jquery.tree.js" />
+      <file name="/github2azure/umbraco_client/Tree/UmbracoContext.js" />
+      <file name="/github2azure/umbraco_client/Tree/jquery.tree.checkbox.js" />
+      <file name="/github2azure/umbraco_client/Tree/jquery.tree.contextmenu.js" />
+      <file name="/github2azure/umbraco_client/Tree/NodeDefinition.js" />
+      <file name="/github2azure/umbraco_client/Tree/UmbracoTree.js" />
+      <file name="/github2azure/umbraco_client/tabview/javascript.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/github2azure/umbraco_client/tinymce3/tiny_mce_popup.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/github2azure/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/github2azure/umbraco_client/tinymce3/plugins/umbracolink/js/umbracolink.js" />
+      <file name="/github2azure/umbraco_client/tinymce3/utils/form_utils.js" />
+      <file name="/github2azure/umbraco_client/tinymce3/utils/validate.js" />
+    </files>
+  </item>
 </map>

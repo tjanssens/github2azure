@@ -1,20 +1,5 @@
-﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Master.master" AutoEventWireup="true" %>
+﻿<%@ Master Language="C#" MasterPageFile="~/umbraco/masterpages/default.master" AutoEventWireup="true" %>
 
-<asp:Content ContentPlaceHolderID="masterContent" runat="server">
-    <umbraco:Macro Alias="Slideshow" runat="server"></umbraco:Macro>
- 
-    <div class="fc">
-        <div class="feature fl">
-            <umbraco:Item ID="Item2" Field="panelContent1" runat="server" ></umbraco:Item>
-             </div>
-
-        <div class="feature fl">
-            <umbraco:Item ID="Item1" Field="panelContent2" runat="server" ></umbraco:Item>
-             </div>
-
-        <div class="feature fr">
-            <umbraco:Item ID="Item3" Field="panelContent3" runat="server" ></umbraco:Item>
-             </div>
-    </div>
-
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
+ <umbraco:Item field="homeContent" runat="server" />
 </asp:Content>
