@@ -2,5 +2,6 @@
 
 <asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
  test omgeving
+ Dit lijkt wel goed
  <umbraco:Item field="homeContent" runat="server" />
 </asp:Content>
