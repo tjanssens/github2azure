@@ -1,7 +1,6 @@
 ﻿<%@ Master Language="C#" MasterPageFile="~/umbraco/masterpages/default.master" AutoEventWireup="true" %>
 
 <asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
- productie omgeving
- Dit lijkt wel goed
+
  <umbraco:Item field="homeContent" runat="server" />
 </asp:Content>
