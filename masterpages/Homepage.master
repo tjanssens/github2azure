@@ -3,4 +3,5 @@
 <asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
 
  <umbraco:Item field="homeContent" runat="server" />
+ bug fix
 </asp:Content>
